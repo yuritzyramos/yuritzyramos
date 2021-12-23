@@ -5,13 +5,16 @@ My name is Yuritzy Ramos, an undergraduate student studying Computer Science and
 
 ## As of now I have...
 - 🍏 Served as a teaching assistant for the Python component of Probability and Statistics for Economists (ECON 220)
-- 📈 Worked with data from [IPUMS](https://www.ipums.org) including the [Current Population Survey](https://cps.ipums.org/cps/), [American Community Survey](https://usa.ipums.org/usa/), and the [American Time Use Survey](https://timeuse.ipums.org)
-- 📑 Completed certification courses for R and Python on [Data Camp](https://www.datacamp.com)
+- 📈 Worked with data from [IPUMS](https://www.ipums.org) including the [Current Population Survey](https://cps.ipums.org/cps/) and the [American Time Use Survey](https://timeuse.ipums.org)
+- 📑 Completed certification courses for R, Python, and SQL on [Data Camp](https://www.datacamp.com)
+  * [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/858d701968df4224d3c34371634eb709d4c566eb)
+  * [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/ae6375b18b541280e50fcdbc414e018de806eacf)
+  * [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/28d617df6701d05ee35797c5d6378bce2fda8afc)
 
 ## Currently I am...
-- 🔬 Assisting a professor with a working paper which uses econometric principles
-- 💻 Visualizing and exploring data for my own research project
-- ⌨️ Working on improving my coding skills in Python, Excel, and SQL
+- 🔬 Assisting a professor with a working paper on the Cambodia Bombing Campaign 
+- 💻 Visualizing and exploring data from the [American Community Survey](https://usa.ipums.org/usa/) for my own research 
+- ⌨️ Working on improving my coding skills in Python and SQL
 
 ## Programming Languages 
 [<img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://github.com/yuritzyramos/Projects-in-Python-and-R)
