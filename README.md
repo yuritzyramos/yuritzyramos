@@ -12,7 +12,6 @@ My name is Yuritzy Ramos, an undergraduate student studying Computer Science and
   * [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/28d617df6701d05ee35797c5d6378bce2fda8afc)
 
 ## Currently I am...
-- 🔬 Assisting a professor with a working paper on the Cambodia Bombing Campaign 
 - 💻 Visualizing and exploring data from the [American Community Survey](https://usa.ipums.org/usa/) for my own research 
 - ⌨️ Working on improving my coding skills in Python and SQL
 
