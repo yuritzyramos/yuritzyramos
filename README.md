@@ -10,10 +10,11 @@ My name is Yuritzy Ramos, an undergraduate student studying Computer Science and
   * [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/858d701968df4224d3c34371634eb709d4c566eb)
   * [Intermediate R](https://www.datacamp.com/statement-of-accomplishment/course/ae6375b18b541280e50fcdbc414e018de806eacf)
   * [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/28d617df6701d05ee35797c5d6378bce2fda8afc)
+- 📊 Used Stata to create a forecasting model for economic data 
+- 🤖 Created a machine learning program alongside other students to predict the success and revenue of video games
 
 ## Currently I am...
-- 💻 Visualizing and exploring data from the [American Community Survey](https://usa.ipums.org/usa/) for my own research 
-- ⌨️ Working on improving my coding skills in Python and SQL
+- ⌨️ Working on improving my coding skills in Python
 
 ## Programming Languages 
 [<img alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://github.com/yuritzyramos/Python-and-R)
